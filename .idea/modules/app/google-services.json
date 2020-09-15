@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563232526157",
+    "firebase_url": "https://wanna-5004b.firebaseio.com",
+    "project_id": "wanna-5004b",
+    "storage_bucket": "wanna-5004b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563232526157:android:310c67d36d1b954a74f104",
+        "android_client_info": {
+          "package_name": "com.example.wanna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563232526157-88lq720bt5tfl95gqceou07mo0sd7nap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wanna",
+            "certificate_hash": "05241809deae90b65ac425c34a897e1f35358c53"
+          }
+        },
+        {
+          "client_id": "563232526157-kp1sjoa971jtp6eabqqtbqremd3rucjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXEgtgeLtSTK6doTE8qjRhMGF2qHVZZ-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563232526157-kp1sjoa971jtp6eabqqtbqremd3rucjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
